@@ -33,7 +33,7 @@ buttons = [
             ),
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"], callback_data="close",
-            )
+            ),
         ],
     ]
     return buttons
